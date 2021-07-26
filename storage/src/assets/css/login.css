@@ -1,0 +1,19 @@
+.loginForm {
+  margin: 30px auto 0px;
+  width: 80%;
+}
+
+.login-head {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: #606266;
+}
+
+.title{
+  font-size: 30px;
+  color:#606266 ;
+  text-align: center;
+  margin-top: 40px;
+}
+

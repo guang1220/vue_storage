@@ -1,0 +1,18 @@
+#app {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.s-title {
+  font-size: 20px;
+  color: #606266;
+  height: 20px;
+  margin: 0;
+  padding: 20px 0 14px;
+  background-color: #ffff;
+
+}
+
+.s-title span{
+  margin-left: 25%;
+}
